@@ -1,0 +1,15 @@
+{
+  "symbols": {
+    "A0YEDL": {
+      "teilfreistellung": 0.3,
+      "trades": [
+        {
+          "type": "buy",
+          "amount": 5.5,
+          "unit_price": 127.35,
+          "timestamp": "2023-10-05T18:45:23"
+        }
+      ]
+    }
+  }
+}

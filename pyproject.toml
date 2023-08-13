@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "sparerpauschbetrag"
+version = "0.1.0"
+description = "Determine optimum stocks to sell to maximize the tax-free amount of capital gains in Germany."
+authors = ["Lukas Huwald"]
+license = "MIT"
+packages = [
+    { include = "sparerpauschbetrag", from = "." },
+]
+[tool.poetry.dependencies]
+python = "~3.11"
+pypdf = ">=3.15.1,<4"
